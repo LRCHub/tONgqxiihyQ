@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "ぷかぷかぴ～す",
+  "base_artist": "ホシノ(CV:花守ゆみり)",
+  "createdAt": "2025-12-23T16:49:16.219113Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ぷかぷかぴ～す",
+      "artist": "ホシノ(CV:花守ゆみり)",
+      "has_synced": true,
+      "path": "select/01_ぷかぷかぴ~す_ホシノ(CV_花守ゆみり).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ぷかぷかぴ～す",
+      "artist": "ホシノ",
+      "has_synced": true,
+      "path": "select/02_ぷかぷかぴ~す_ホシノ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ぷかぷかぴ～す",
+      "artist": "ホシノ(CV:花守ゆみり)",
+      "has_synced": false,
+      "path": "select/pl_01_ぷかぷかぴ~す_ホシノ(CV_花守ゆみり).txt"
+    }
+  ]
+}
